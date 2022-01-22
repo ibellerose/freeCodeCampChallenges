@@ -1,6 +1,6 @@
 {
-	"author" : "Ian Bellerose",
 	"name": "fcc-learn-npm-package-json",
+	"author" : "Ian Bellerose",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
